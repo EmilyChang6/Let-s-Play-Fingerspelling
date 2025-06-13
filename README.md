@@ -18,3 +18,4 @@
 * Scikit-learn  
 * Google ASL Fingerspelling (Dataset)
 
+![image](https://github.com/EmilyChang6/Let-s-Play-Fingerspelling/blob/main/Let%E2%80%99s%20Play%20Fingerspelling.PNG)
